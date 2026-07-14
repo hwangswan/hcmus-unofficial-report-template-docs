@@ -66,4 +66,23 @@ All detailed setup, structure, and compilation guides have been consolidated int
 
 👉 **[Go to Scientific Project Template Documentation](Scientific-Project)**
 
+---
+
+## 📝 Quiz Template
+
+This template is designed for creating quizzes, test papers, and exams at HCMUS using the standard LaTeX `exam` document class, featuring running headers, student identification blocks, listings syntax highlighting for source code, and automated solution formatting.
+
+### 🎨 Previews
+Here is a side-by-side preview of the compiled quiz layout:
+
+| Trang đề thi (Trống) | Đáp án - Trang 1 | Đáp án - Trang 2 |
+| :---: | :---: | :---: |
+| <img src="img/Quiz-Preview-Blank.png" alt="Trang đề thi (Trống)" width="140"/> | <img src="img/Quiz-Preview-Answer-Page1.png" alt="Đáp án - Trang 1" width="140"/> | <img src="img/Quiz-Preview-Answer-Page2.png" alt="Đáp án - Trang 2" width="140"/> |
+
+### 📖 User Guides
+
+All detailed setup, structure, and compilation guides have been consolidated into a single comprehensive page:
+
+👉 **[Go to Quiz Template Documentation](Quiz)**
+
 
